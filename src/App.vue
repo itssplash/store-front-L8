@@ -109,8 +109,8 @@ export default {
 
 <style>
 body {
-  background-image: url('@/assets/algonquin.jpg');
-  background-size: cover;
+  background-image: url('@/assets/bestbuy.jpg');
+  background-size: auto;
   background-position: center;
   background-attachment: fixed; /* Keeps the background in place when scrolling */
   margin: 0;
